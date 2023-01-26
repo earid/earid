@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Earid Ahme</h1>
+<h1 align="center">Hi 👋, I'm Earid Ahmed</h1>
 <h3 align="center">Earid is a dedicated technology professional, skilled web developer, recreational runner and continuously seeks to expand their knowledge. They have been working as a freelancer since 2015.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earid&label=Profile%20views&color=0e75b6&style=flat" alt="earid" /> </p>
