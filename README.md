@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently selling services on **Fiverr & Upwork**
 
 
 </p>
