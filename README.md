@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Earid Ahmed</p>
+<p align="left">Hi 👋, This is Earid Ahmed's Github</p>
 <p align="left">Earid is a dedicated technologist residing in Bangladesh, with over 8 years of experience as a web developer. In addition to his passion for technology and enjoys running as a way to stay active. Earid has a thirst for knowledge and continuously seeks out new experiences, regularly reading diverse content. He also enjoys sharing his knowledge with others and has been providing services on platforms like Upwork and Fiverr since 2015.</p>
 
 
